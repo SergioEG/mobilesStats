@@ -1,7 +1,7 @@
-# SERGIO ELOLA GARCÕA AND OLGA GONZ¡LEZ FARI—AS
+# SERGIO ELOLA GARC√çA AND OLGA GONZ√ÅLEZ FARI√ëAS
 
 # Read the data file as a data.frame:
-Datos = read.csv("Datos.csv",sep = ",")
+Datos = read.csv("Data.csv",sep = ",")
 attach(Datos)
 names(Datos)
 
