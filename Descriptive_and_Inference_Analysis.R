@@ -1,4 +1,4 @@
-# SERGIO ELOLA GARCÍA AND OLGA GONZÁLEZ FARIÑAS
+# SergioEG and OlgaGF
 
 # Read the data file as a data.frame:
 Datos = read.csv("Data.csv",sep = ",")
